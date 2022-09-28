@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks-and-Queues-Exercise", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\Stacks-and-Queues-Exercise\Stacks-and-Queues-Exercise.csproj", "{8D845A38-6023-4BD1-A1A6-15C95D7B6F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02.BasicQueueOperations", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T02.BasicQueueOperations\T02.BasicQueueOperations.csproj", "{B9AF06FA-2DE2-44EC-995A-847079999DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03.MaximumAndMinimumElement", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T03.MaximumAndMinimumElement\T03.MaximumAndMinimumElement.csproj", "{C67E9367-E504-4A1F-A411-815447D520B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04.FastFood", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T04.FastFood\T04.FastFood.csproj", "{CE74DC04-29FB-4EA3-BFEC-7EE391ED7142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05.FashionButique", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T05.FashionButique\T05.FashionButique.csproj", "{BDCBB93A-1EE5-4C04-AA9D-A8A6687DF41B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06.SongsQueue", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T06.SongsQueue\T06.SongsQueue.csproj", "{EC0BDA56-F98E-409B-B2D2-0183B0084FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07.TruckTour", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T07.TruckTour\T07.TruckTour.csproj", "{A774A24D-310C-4175-9E4D-0E0EFD932967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08.BalancedParenthesis", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T08.BalancedParenthesis\T08.BalancedParenthesis.csproj", "{A74F0D35-C3AD-48D0-BD37-8761610D6DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09.SimpleTextEditor", "\Mac\Home\Documents\SoftUni\C# Advanced\Themes\Stacks and queues\exercise\Stacks-and-Queues-Exercise\T09.SimpleTextEditor\T09.SimpleTextEditor.csproj", "{E7003731-35C6-424A-B169-D378AE385DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D845A38-6023-4BD1-A1A6-15C95D7B6F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D845A38-6023-4BD1-A1A6-15C95D7B6F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D845A38-6023-4BD1-A1A6-15C95D7B6F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D845A38-6023-4BD1-A1A6-15C95D7B6F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AF06FA-2DE2-44EC-995A-847079999DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AF06FA-2DE2-44EC-995A-847079999DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AF06FA-2DE2-44EC-995A-847079999DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AF06FA-2DE2-44EC-995A-847079999DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67E9367-E504-4A1F-A411-815447D520B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67E9367-E504-4A1F-A411-815447D520B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67E9367-E504-4A1F-A411-815447D520B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67E9367-E504-4A1F-A411-815447D520B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE74DC04-29FB-4EA3-BFEC-7EE391ED7142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE74DC04-29FB-4EA3-BFEC-7EE391ED7142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE74DC04-29FB-4EA3-BFEC-7EE391ED7142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE74DC04-29FB-4EA3-BFEC-7EE391ED7142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCBB93A-1EE5-4C04-AA9D-A8A6687DF41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCBB93A-1EE5-4C04-AA9D-A8A6687DF41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCBB93A-1EE5-4C04-AA9D-A8A6687DF41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCBB93A-1EE5-4C04-AA9D-A8A6687DF41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0BDA56-F98E-409B-B2D2-0183B0084FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0BDA56-F98E-409B-B2D2-0183B0084FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0BDA56-F98E-409B-B2D2-0183B0084FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0BDA56-F98E-409B-B2D2-0183B0084FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A774A24D-310C-4175-9E4D-0E0EFD932967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A774A24D-310C-4175-9E4D-0E0EFD932967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A774A24D-310C-4175-9E4D-0E0EFD932967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A774A24D-310C-4175-9E4D-0E0EFD932967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74F0D35-C3AD-48D0-BD37-8761610D6DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74F0D35-C3AD-48D0-BD37-8761610D6DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74F0D35-C3AD-48D0-BD37-8761610D6DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74F0D35-C3AD-48D0-BD37-8761610D6DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7003731-35C6-424A-B169-D378AE385DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7003731-35C6-424A-B169-D378AE385DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7003731-35C6-424A-B169-D378AE385DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7003731-35C6-424A-B169-D378AE385DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE2F346-6E3D-4E6C-88A0-BFB0A97408BA}
+	EndGlobalSection
+EndGlobal
