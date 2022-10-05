@@ -9,3 +9,5 @@ Here you can find all of my salutions from C# Advanced course in Software Univer
 [3. Multidimentional arrays - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Multidimentional%20arrays%20-%20Lab)
 
 [4. Multidimentional arrays - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Multidimentional%20arrays%20-%20Exercise)
+
+[5. Dictionaries and sets advanced - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Dictionaries-and-sets-lab)
