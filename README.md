@@ -13,3 +13,5 @@ Here you can find all of my salutions from C# Advanced course in Software Univer
 [5. Dictionaries and sets advanced - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Dictionaries-and-sets-lab)
 
 [6. Dictionaries and sets advanced - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Dictionaries-and-sets-advanced-Exercise)
+
+[7. Stream, files and directories - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Streams-files-and-directories-Lab)
