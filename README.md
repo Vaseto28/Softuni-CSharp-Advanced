@@ -1,6 +1,6 @@
 # Softuni-CSharp-Advanced
 
-Here you can find all of my salutions from C# Advanced course in Software University (SoftUni):
+Here you can find all of my solutions from C# Advanced course in Software University (SoftUni):
 
 [1. Stacks and queues - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Stacks-and-queues-lab)
 
