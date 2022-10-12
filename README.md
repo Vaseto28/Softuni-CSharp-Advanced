@@ -17,3 +17,5 @@ Here you can find all of my salutions from C# Advanced course in Software Univer
 [7. Streams, files and directories - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Streams-files-and-directories-Lab)
 
 [8. Sterams, files and directories - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Streams-files-and-directories-Exercise)
+
+[9. Functional programming - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Functional-programming-Lab)
