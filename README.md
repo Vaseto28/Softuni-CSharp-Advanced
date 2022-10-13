@@ -19,3 +19,5 @@ Here you can find all of my solutions from C# Advanced course in Software Univer
 [8. Sterams, files and directories - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Streams-files-and-directories-Exercise)
 
 [9. Functional programming - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Functional-programming-Lab)
+
+[10. Functional programming - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Functional-progrmming-Exercise)
