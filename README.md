@@ -21,3 +21,7 @@ Here you can find all of my solutions from C# Advanced course in Software Univer
 [9. Functional programming - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Functional-programming-Lab)
 
 [10. Functional programming - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Functional-progrmming-Exercise)
+
+[11. Defining classes - Lab](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Defining-classes-Lab)
+
+[12. Defining classes - Exercise](https://github.com/Vaseto28/Softuni-CSharp-Advanced/tree/main/Defining-classes-Exercise)
